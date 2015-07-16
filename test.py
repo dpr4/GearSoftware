@@ -2,4 +2,4 @@ print "test"
 
 print "moreing"
 
-print " a "
+print " a nnnnn"
